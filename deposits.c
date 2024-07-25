@@ -1,7 +1,7 @@
 /*
 David Madrigal
 Takes input of deposit from user and will update balance if greater than or equal to zero.
-If input less than 0 then it is invalid.
+If input less than 0 then it is inval
 
 
 */
